@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<p style="color: red; font-size: 60px;">hi</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SetyaMeas)](https://github.com/anuraghazra/github-readme-stats)
